@@ -12,7 +12,7 @@ import org.junit.jupiter.api.Test;
  * </pre>
  *
  * @author zhangmsh 2021/2/23
- * @since 0.0.1
+ * @since 简单
  */
 public class _766托普利茨矩阵_zms {
 
